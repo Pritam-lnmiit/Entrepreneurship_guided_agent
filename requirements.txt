@@ -13,3 +13,6 @@ duckduckgo-search
 yfinance 
 sqlalchemy 
 fastapi[standard]
+fastapi
+uvicorn
+python-dotenv
