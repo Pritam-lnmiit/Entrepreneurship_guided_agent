@@ -15,4 +15,4 @@ sqlalchemy
 fastapi[standard]
 fastapi
 uvicorn
-python-dotenv this is my previous requirements.txt
+python-dotenv 
